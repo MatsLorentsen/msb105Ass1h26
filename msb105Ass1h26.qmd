@@ -32,13 +32,19 @@ Pålitelig forskning er viktig fordi forskningsresultater ofte brukes til å ska
 
 @nosek2020 mener at replikasjon kan gi ny informasjon om hvor pålitelig en tidligere forskningspåstand er. Hvis en studie får lignende resultater når den gjennomføres på nytt, kan det styrke tilliten til funnet. Replikasjon kan derfor bidra med noe mer enn reproduserbarhet alene.
 
+Selv om replikasjon er viktig, er det vanskelig å kreve at alle studier skal replikeres. Det krever både tid og ressurser, og derfor kan det være nødvendig å prioritere hvilke forskningsresultater som er viktigst å undersøke på nytt [@sikorski2024].
+
+Når tekst, kode og resultater er samlet i samme dokument, blir det lettere å se hvordan analysen er gjennomført og hvordan resultatene har blitt laget. Det gjør forskningen lettere å forstå, kontrollere og reprodusere [@figueiredo2022].
+
 
 
 ## Diskusjon av forskningsspørsmålet (problemstillingen)
 
-- Burde replikerbarhet være et krav eller er det å be om for mye?
-- Kan Quarto dokumenter hjelpe med å oppnå reproduserbarhet?
-- Hvilke problem gjenstår og hvordan kan disse løses?
+Jeg mener at det blir for mye å kreve at alle forskningsstudier skal replikeres, fordi det krever mye tid og ressurser [@sikorski2024]. Samtidig er replikasjon viktig fordi det kan gi større tillit til forskningsresultater [@nosek2020]. Jeg mener at det blir for mye å kreve at alle forskningsstudier skal replikeres, fordi det krever mye tid og ressurser. Samtidig er replikasjon viktig fordi det kan gi større tillit til forskningsresultater. Derfor mener jeg at man bør prioritere studier som kan få store konsekvenser for mennesker eller samfunnet. For eksempel kan forskning som brukes som grunnlag for medisinsk behandling eller viktige beslutninger være viktig å undersøke på nytt. Det kan likevel være vanskelig å vite hvilke studier som er viktigst, fordi forskning som virker lite viktig i dag kan få større betydning senere. Derfor bør ikke dagens betydning være det eneste man vurderer når man bestemmer hvilke studier som bør replikeres.
+
+Jeg mener at Quarto kan bidra til bedre reproduserbarhet fordi tekst, kilder, kode og resultater kan samles på samme sted. Når dokumentet rendres, blir innholdet laget ut fra .qmd-filen, noe som kan gjøre arbeidet lettere å følge og kontrollere. Dette kan gjøre det enklere for andre å forstå hvordan analysen er gjennomført [@figueiredo2022]. Samtidig er ikke Quarto alene nok til å garantere reproduserbarhet. Andre kan for eksempel ha en annen versjon av R eller mangle nødvendige pakker og data. Derfor må også data, programvare og informasjon om hvilke versjoner som er brukt være tilgjengelig.
+
+Selv om en analyse kan reproduseres og andre får det samme resultatet, betyr det ikke nødvendigvis at forskningen er pålitelig. Det kan fortsatt være problemer med datakvaliteten, utvalget eller valgene som er gjort i analysen. Forskere bør derfor undersøke om resultatene holder når man gjør andre rimelige valg i analysen [@rijnhart2022]. Dette kan bidra til å vise om resultatene er robuste. I tillegg kan viktige resultater replikeres med nye data for å undersøke om man finner lignende resultater igjen [@nosek2020]. Reproduserbarhet bør derfor kombineres med robusthet, replikasjon og åpenhet om data og metoder for å gi større tillit til forskningen.
 
 ## Konklusjon
 
