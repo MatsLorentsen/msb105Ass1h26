@@ -1,6 +1,7 @@
+
 ---
 title: "Er reproduserbarhet nok?"
-author: "Author Name"
+author: "Mats Lorentsen"
 date: last-modified
 date-format: "dddd D MMM, YYYY"
 csl: apa7.csl
@@ -21,10 +22,7 @@ abstract: "Et kort sammendrag, en til to avsnitt."
 ---
 
 ## Introduksjon
-
-Hva handler artikkelen om?
-Hva blir diskutert?
-Hvorfor er dette viktig?
+Pålitelig forskning er viktig fordi forskningsresultater ofte brukes til å skape ny kunnskap og som grunnlag for ulike beslutninger. Reproduserbarhet gjør det mulig for andre å undersøke en analyse og se om de får de samme resultatene. Reproduserbarhet kan ses på som en minimumsstandard når det ikke er mulig å gjennomføre en fullstendig replikasjon [@peng2011]. Likevel betyr ikke dette nødvendigvis at forskningen er robust eller at resultatene kan replikeres med nye data. Det er derfor relevant å spørre om reproduserbarhet alene er nok for å kunne stole på forskning. I denne artikkelen vil jeg diskutere dette, og se på hvilken rolle reproduserbarhet, replikerbarhet og verktøy som Quarto kan ha for robust og pålitelig forskning.
 
 ## Litteraturgjennomgang
 
