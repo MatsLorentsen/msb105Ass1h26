@@ -62,4 +62,4 @@ Dokumentet er laget med R version 4.6.1 (2026-06-24) [@r2026].
 ## Appendiks B
 
 Jeg har brukt ChatGPT som hjelp og veiledning gjennom oppgaven. Jeg har brukt det til å forstå kildene og temaene bedre, og til å få hjelp med Quarto, Git og siteringer. Jeg har også brukt ChatGPT til å få tilbakemeldinger på tekst og formuleringer jeg har skrevet selv. I tillegg har jeg brukt det til å finne relevante kilder som jeg selv har lest og vurdert.
-Tjenesten som er brukt er ChatGPT med GPT-5.6 Sol fra OpenAI. Chatten med ChatGPT kan deles med faglærer som dokumentasjon på hvordan KI har blitt brukt i arbeidet.
+Tjenesten som er brukt er ChatGPT med GPT-5.6 Luna fra OpenAI. Chatten med ChatGPT kan deles med faglærer som dokumentasjon på hvordan KI har blitt brukt i arbeidet.
