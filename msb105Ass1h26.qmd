@@ -1,4 +1,3 @@
-
 ---
 title: "Er reproduserbarhet nok?"
 author: "Mats Lorentsen"
@@ -22,26 +21,24 @@ abstract: "Et kort sammendrag, en til to avsnitt."
 ---
 
 ## Introduksjon
+
 Pålitelig forskning er viktig fordi forskningsresultater ofte brukes til å skape ny kunnskap og som grunnlag for ulike beslutninger. Reproduserbarhet gjør det mulig for andre å undersøke en analyse og se om de får de samme resultatene. Reproduserbarhet kan ses på som en minimumsstandard når det ikke er mulig å gjennomføre en fullstendig replikasjon [@peng2011]. Likevel betyr ikke dette nødvendigvis at forskningen er robust eller at resultatene kan replikeres med nye data. Det er derfor relevant å spørre om reproduserbarhet alene er nok for å kunne stole på forskning. I denne artikkelen vil jeg diskutere dette, og se på hvilken rolle reproduserbarhet, replikerbarhet og verktøy som Quarto kan ha for robust og pålitelig forskning.
 
 ## Litteraturgjennomgang
 
-Smarte synspunkt om emnet fra andre.
+@plesser2018 viser at begrepene reproduserbarhet og replikerbarhet kan brukes på forskjellige måter. Derfor er det viktig å være tydelig på hva man mener med begrepene når man diskuterer forskning.
 
-Bruk minst 20 siteringer. Minst 5 må være nye relevante artikler om emnet som du har funnet selv.
+@rijnhart2022 viser hvordan ulike analytiske valg kan påvirke resultatene, selv når forskerne arbeider med det samme datasettet. Hvis resultatet endrer seg når forskeren gjør andre rimelige valg i analysen, kan det være vanskeligere å vite hvor pålitelig resultatet egentlig er. Derfor er det ikke nødvendigvis nok at en analyse kan gjenskapes, hvis resultatet er veldig avhengig av hvordan analysen blir gjort [@rijnhart2022].
 
-Benytt begge siteringsmåter,  dvs. «in-line» og på slutten av setningen. Prøv å variere siteringsteknikk for å få flyt i språket.
+@nosek2020 mener at replikasjon kan gi ny informasjon om hvor pålitelig en tidligere forskningspåstand er. Hvis en studie får lignende resultater når den gjennomføres på nytt, kan det styrke tilliten til funnet. Replikasjon kan derfor bidra med noe mer enn reproduserbarhet alene.
 
-Example:
 
-@gentleman2003 hevder at bla bla bla.
-Andre mener imidlertid bla bla [@goodman2016b; @ioannidis2005b].
 
 ## Diskusjon av forskningsspørsmålet (problemstillingen)
 
--   Burde replikerbarhet være et krav eller er det å be om for mye?
--   Kan Quarto dokumenter hjelpe med å oppnå reproduserbarhet?
--   Hvilke problem gjenstår og hvordan kan disse løses?
+- Burde replikerbarhet være et krav eller er det å be om for mye?
+- Kan Quarto dokumenter hjelpe med å oppnå reproduserbarhet?
+- Hvilke problem gjenstår og hvordan kan disse løses?
 
 ## Konklusjon
 
@@ -54,8 +51,8 @@ Noen kloke ord.
 
 ## Appendiks A
 
--   Versjon nummer og referanse til R pakken brukt i dokumentet
--   R versjon brukt, med referanse
+- Versjon nummer og referanse til R pakken brukt i dokumentet
+- R versjon brukt, med referanse
 
 ## Appendiks B
 
