@@ -57,7 +57,7 @@ Jeg mener at reproduserbarhet er viktig, men at det ikke er nok alene fordi det 
 
 ## Appendiks A
 
-Dokumentet er laget med R version 4.6.1 (2026-06-24).
+Dokumentet er laget med R version 4.6.1 (2026-06-24) [@r2026].
 
 ## Appendiks B
 
