@@ -17,7 +17,7 @@ format:
 #  pdf:
 #    papersize: a4
 bibliography: reproducibility.bib
-abstract: "Et kort sammendrag, en til to avsnitt."
+abstract: Denne artikkelen diskuterer om reproduserbarhet alene er nok for å sikre robust og pålitelig forskning. Jeg kommer fram til at reproduserbarhet er viktig, men at det bør kombineres med blant annet replikasjon, robusthet og åpenhet om data og metoder. Artikkelen diskuterer også hvordan Quarto kan bidra til reproduserbarhet ved å gjøre forskningsprosessen lettere å dokumentere og følge."
 ---
 
 ## Introduksjon
