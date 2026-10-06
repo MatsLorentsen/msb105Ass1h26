@@ -5,8 +5,8 @@ date: last-modified
 date-format: "dddd D MMM, YYYY"
 csl: apa7.csl
 # nynorsk
-lang: no-NN
-#lang: no-NB
+#lang: no-NN
+lang: no-NB
 # for typst with bibtex
 citeproc: true
 papersize: a4
@@ -57,10 +57,9 @@ Jeg mener at reproduserbarhet er viktig, men at det ikke er nok alene fordi det 
 
 ## Appendiks A
 
-- Versjon nummer og referanse til R pakken brukt i dokumentet
-- R versjon brukt, med referanse
+Dokumentet er laget med R version 4.6.1 (2026-06-24).
 
 ## Appendiks B
 
-- Hvordan er KI brukt
-- Husk invitasjon til chat
+Jeg har brukt ChatGPT som hjelp og veiledning gjennom oppgaven. Jeg har brukt det til å forstå kildene og temaene bedre, og til å få hjelp med Quarto, Git og siteringer. Jeg har også brukt ChatGPT til å få tilbakemeldinger på tekst og formuleringer jeg har skrevet selv. I tillegg har jeg brukt det til å finne relevante kilder som jeg selv har lest og vurdert.
+Tjenesten som er brukt er ChatGPT med GPT-5.6 Sol fra OpenAI. Chatten med ChatGPT kan deles med faglærer som dokumentasjon på hvordan KI har blitt brukt i arbeidet.
